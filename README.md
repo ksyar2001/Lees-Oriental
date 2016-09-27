@@ -1,10 +1,4 @@
-# Lees-Oriental
-
-
-Live Domain- leesoriental.com
-
-Skeleton website created in less than a week for the business Lee's Oriental in Madison WI
-
+# ShoppingCart-Email in PHP
 ShoppingCart and Checkout Module created entirely in PHP
 
 Semantic UI
